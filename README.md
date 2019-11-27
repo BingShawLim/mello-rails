@@ -1,6 +1,6 @@
 # README
 
-MELLO FRONTEND.
+MELLO
 
 This is a JS project for learning purpose.
 
