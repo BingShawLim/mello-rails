@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+MELLO FRONTEND.
 
-Things you may want to cover:
+This is a JS project for learning purpose.
 
-* Ruby version
+This app is tented to create a Trello like app.
 
-* System dependencies
+I learn to make it from UT web developer bootcamp.
 
-* Configuration
+link: https://mello-rails-bshaw.herokuapp.com
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![](images/Screenshot -1.png)
+![](images/Screenshot -2.png)
+![](images/Screenshot -3.png)
+![](images/Screenshot -4.png)
